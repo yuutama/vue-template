@@ -23,6 +23,8 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
+## Confirm version
+
 ### Confirm node version
 ```
 node -v
